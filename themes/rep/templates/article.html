@@ -1,0 +1,110 @@
+{% extends "base.html" %}
+{% block html_lang %}{{ article.lang }}{% endblock %}
+
+{% block title %}{{ SITENAME }} - {{ article.title }}{% endblock %}
+
+{% block head %}
+{{ super() }}
+
+{% import 'translations.html' as translations with context %}
+{% if translations.entry_hreflang(article) %}
+{{ translations.entry_hreflang(article) }}
+{% endif %}
+
+{% if article.description %}
+<meta name="description" content="{{article.description}}" />
+{% endif %}
+
+{% for tag in article.tags %}
+<meta name="tags" content="{{tag}}" />
+{% endfor %}
+
+{% endblock %}
+
+{% block page_title %}{{ article.title }}{% endblock %}
+
+{% block extra_header %}
+{% if article.brief %}
+<h4 class="f3 fw1 georgia i">
+  {{ article.brief }}
+</h4>
+{% endif %}
+
+{% if article.composer %}
+<h5 class="f6 ttu tracked near-black mv1">Composed by
+  {% for composer in article.composer %}
+  <a href="{{ SITEURL }}{{ composer.url }}" class="dark-blue">
+    {{ composer }}{% if not loop.last %},{% endif %}
+  </a>
+  {% endfor %}
+</h5>
+{% endif %}
+
+{% if article.length %}
+<h5 class="f6 ttu tracked near-black mv1">Length
+  {{ article.length }} bars
+</h5>
+{% endif %}
+
+{% if article.time %}
+<h5 class="f6 ttu tracked near-black mv1">Time
+  <a href="{{ SITEURL }}{{ article.time.url }}" class="dark-blue">
+    {{ article.time }}
+  </a>
+  {% endif %}
+
+  {% if article.form %}
+  <h5 class="f6 ttu tracked near-black mv1">Form
+    <a href="{{ SITEURL }}{{ article.form.url }}" class="dark-blue">
+      {{ article.form }}
+    </a>
+  </h5>
+  {% endif %}
+
+  {% if article.style %}
+  <h5 class="f6 ttu tracked near-black mv1">Style
+    <a href="{{ SITEURL }}{{ article.style.url }}" class="dark-blue">
+      {{ article.style }}
+    </a>
+  </h5>
+  {% endif %}
+
+  {% if article.key %}
+  <h5 class="f6 ttu tracked near-black mv1">Common Key
+    <a href="{{ SITEURL }}/tag/{{ article.key }}" class="dark-blue">
+      {{ article.key }}
+    </a>
+  </h5>
+  {% endif %}
+  {% import 'translations.html' as translations with context %}
+  {{ translations.translations_for(article) }}
+
+{% endblock %}
+
+{% block content %}
+
+  <p class="f5 f3-ns lh-copy measure georgia">
+    Theodore Sturgeon was a science fiction author, critic, and the basis for
+    Kurt Vonnegut's recurring character Kilgore Trout. He was prolific,
+    authoring over 200 pieces himself and critiquing around 400 others.
+  </p>
+  {% if article.chords %}
+  <p class="f6 f5-ns lh-copy measure i pl4 bl bw1 b--gold mb4">
+    <img src="{{ article.chords }}" alt="">
+  </p>
+  {% endif %}
+  <p class="f5 f4-ns lh-copy measure mb4">
+    Hello, babies. Welcome to Earth. It’s hot in the summer and cold in the
+    winter. It’s round and wet and crowded. At the outside, babies, you’ve
+    got about a hundred years here. There’s only one rule that I know of,
+    babies—God damn it, you’ve got to be kind
+  </p>
+
+  {{ article.content }}
+  {% if article.embed %}
+  <div>
+    {{ article.embed }}
+  </div>
+  {% endif %}
+
+{% endblock %}
