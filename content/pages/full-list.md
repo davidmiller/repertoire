@@ -2,8 +2,7 @@ Title: Full list
 
 
  This list was created by reviewing some existing "top n standards" lists, with
- adjustments based on tunes that are regularly called at beginner to intermediate
- jazz jams in London.
+ adjustments based on tunes that are regularly called at jazz jams in London.
 
 * [Afro Blue](../afro-blue.html)
 * [Afternoon In Paris](../afternoon-in-paris.html)
