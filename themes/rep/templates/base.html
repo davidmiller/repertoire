@@ -3,6 +3,7 @@
   <head>
     {% block head %}
     <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8" />
     {% if FEED_ALL_ATOM %}
     <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
