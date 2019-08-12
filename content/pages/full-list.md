@@ -121,16 +121,16 @@ Title: Full list
 * Moment’s Notice
 * [Mood Indigo](../mood-indigo.html)
 * [Moonglow](../moonglow.html)
-* Moonlight in Vermont
-* Mr. P.C.
+* [Moonlight in Vermont](../moonlight-in-vermont.html)
+* [Mr. P.C.](../mr-pc.html)
 * [My Favorite Things](../my-favourite-things.html)
 * My Foolish Heart
 * My Funny Valentine
 * My Little Suede Shoes
-* My One and Only Love
+* [My One and Only Love](../my-one-and-only-love.html)
 * [My Romance](../my-romance.html)
 * [My Shining Hour](../my-shining-hour.html)
-* Nardis
+* [Nardis](../nardis.html)
 * Nearness of You, The
 * Nica’s Dream
 * Night Has a Thousand Eyes, The
@@ -138,7 +138,7 @@ Title: Full list
 * [Night in Tunisia, A](../night-in-tunisia-a.html)
 * [Now’s the Time](../nows-the-time.html)
 * Oleo
-* On Green Dolphin Street
+* [On Green Dolphin Street](../on-green-dolphin-street.html)
 * On The Sunny Side Of The Street
 * Once I Loved
 * One Note Samba
@@ -169,7 +169,7 @@ Title: Full list
 * Speak No Evil
 * [St. James Infirmary](../st-james-infirmary.html)
 * [St. Thomas](../st-thomas.html)
-* Stablemates
+* [Stablemates](../stablemates.html)
 * Star Eyes
 * [Stardust](../stardust.html)
 * Stella by Starlight

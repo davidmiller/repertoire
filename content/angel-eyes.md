@@ -8,3 +8,4 @@ Composer: Matt Dennis
 Style: Swing
 Key: C-
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/7GFnwOlDvR8MIMqFHWm4Qz" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Chords: images/angel-eyes.jpg

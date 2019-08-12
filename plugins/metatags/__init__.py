@@ -37,16 +37,16 @@ def add_tags(content):
 
     for article in content.articles:
 
-        for metatag in ['key', 'form', 'time', 'composer', 'style']:
+        for metatag in ['form', 'time', 'composer', 'style', 'key']:
 
             if not getattr(content, metatag, False):
                 setattr(content, metatag, set())
 
             if getattr(article, metatag, False):
-                if metatag in ['composer']: # Multi tag
+                if metatag in ['composer', 'key']: # Multi tag
                     as_tags = []
                     for tag_text in getattr(article, metatag).split(','):
-                        tag = _new_tag(tag_text, article, global_tags)
+                        tag = _new_tag(tag_text.strip(), article, global_tags)
                         as_tags.append(tag)
                         getattr(content, metatag).add(tag)
                         setattr(article, metatag, as_tags)
