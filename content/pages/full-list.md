@@ -87,13 +87,13 @@ Title: Full list
 * I Should Care
 * I Thought About You
 * [I Wish I Knew How It Would Feel To Be Free](../i-wish-i-knew-how-it-would-feel-to-be-free.html)
-* I'll Remember April
-* If I Were A Bell
+* [I'll Remember April](../ill-remember-april.html)
+* [If I Were A Bell](../if-i-were-a-bell.html)
 * Impressions
 * [In Your Own Sweet Way](../in-your-own-sweet-way.html)
 * [In a Mellow Tone](../in-a-mellow-tone.html)
-* In a Sentimental Mood
-* Inner Urge
+* [In a Sentimental Mood](../in-a-sentimental-mood.html)
+* [Inner Urge](../inner-urge.html)
 * [Invitation](../invitation.html)
 * [It Could Happen to You](../it-could-happen-to-you.html)
 * It Don’t Mean a Thing
