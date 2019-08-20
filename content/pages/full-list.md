@@ -4,6 +4,7 @@ Title: Full list
  This list was created by reviewing some existing "top n standards" lists, with
  adjustments based on tunes that are regularly called at jazz jams in London.
 
+* [A Foggy Day](../a-foggy-day.html)
 * [Afro Blue](../afro-blue.html)
 * [Afternoon In Paris](../afternoon-in-paris.html)
 * [Airegin](../airigin.html)
@@ -58,7 +59,6 @@ Title: Full list
 * [Equinox](../equinox.html)
 * [Fly Me To The Moon](../fly-me-to-the-moon.html)
 * [Fee Fi Fo Fum](../fee-fi-fo-fum.html)
-* [Foggy Day, A](../a-foggy-day.html)
 * [Footprints](../footprints.html)
 * [For Heaven's Sake](../for-heavens-sake.html)
 * [Four](../four.html)
@@ -96,7 +96,7 @@ Title: Full list
 * [Inner Urge](../inner-urge.html)
 * [Invitation](../invitation.html)
 * [It Could Happen to You](../it-could-happen-to-you.html)
-* It Don’t Mean a Thing
+* [It Don’t Mean a Thing](../it-dont-mean-a-thing.html)
 * It Had to Be You
 * It Might as Well Be Spring
 * It’s You or No One
@@ -126,7 +126,7 @@ Title: Full list
 * [My Favorite Things](../my-favourite-things.html)
 * My Foolish Heart
 * My Funny Valentine
-* My Little Suede Shoes
+* [My Little Suede Shoes](../my-little-suede-shoes.html)
 * [My One and Only Love](../my-one-and-only-love.html)
 * [My Romance](../my-romance.html)
 * [My Shining Hour](../my-shining-hour.html)
@@ -139,17 +139,17 @@ Title: Full list
 * [Now’s the Time](../nows-the-time.html)
 * Oleo
 * [On Green Dolphin Street](../on-green-dolphin-street.html)
-* On The Sunny Side Of The Street
+* [On The Sunny Side Of The Street](../on-the-sunny-side-of-the-street.html)
 * Once I Loved
 * One Note Samba
 * [Ornithology](../ornithology.html)
 * Our Love is Here to Stay
 * [Out of Nowhere](../out-of-nowhere.html)
-* Peace
+* [Peace](../peace.html)
 * [Perdido](../perdido.html)
 * Polka Dots and Moonbeams
 * [Prelude to a Kiss](../prelude-to-a-kiss.html)
-* Recorda Me
+* [Recorda Me](../recordame.html)
 * [Round Midnight](../round-midnight.html)
 * Sandu
 * [Satin Doll](../satin-doll.html)
@@ -159,9 +159,9 @@ Title: Full list
 * [Skylark](../skylark.html)
 * So What
 * [Softly as in a Morning Sunrise](../softly-as-in-a-morning-sunrise.html)
-* Solar
+* [Solar](../solar.html)
 * [Some Day My Prince Will Come](../some-day-my-prince-will-come.html)
-* Someone To Watch Over Me
+* [Someone To Watch Over Me](../someone-to-watch-over-me.html)
 * Song for My Father
 * Song is You, The
 * Sophisticated Lady

@@ -2,6 +2,7 @@ Title: A Foggy Day
 Date: 2019-07-30 09:00
 Category: Standards
 Composer: George Gershwin
+Brief: One of very few standards written about London Town
 Time: 4/4
 Length: 34
 Form: ABAC
