@@ -1,6 +1,7 @@
 Title: All Blues
 Date: 2019-07-30 09:00
 Category: Standards
+Brief: Modal waltz blues with a riff bassline from Kind Of Blue
 Time: 3/4
 Length: 24
 Form:

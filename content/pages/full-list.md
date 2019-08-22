@@ -63,9 +63,9 @@ Title: Full list
 * [For Heaven's Sake](../for-heavens-sake.html)
 * [Four](../four.html)
 * [Freddie Freeloader](../freddie-freeloader.html)
-* Freedom Jazz Dance
+* [Freedom Jazz Dance](../freedom-jazz-dance.html)
 * [Georgia on My Mind](../georgia-on-my-mind.html)
-* Giant Steps
+* [Giant Steps](../giant-steps.html)
 * [Girl from Ipanema](../girl-from-ipanema-the.html)
 * [Good Bait](../good-bait.html)
 * [Groovin' High](../groovin-high.html)
@@ -97,16 +97,16 @@ Title: Full list
 * [Invitation](../invitation.html)
 * [It Could Happen to You](../it-could-happen-to-you.html)
 * [It Don’t Mean a Thing](../it-dont-mean-a-thing.html)
-* It Had to Be You
-* It Might as Well Be Spring
-* It’s You or No One
+* [It Had to Be You](../it-had-to-be-you.html)
+* [It Might as Well Be Spring](../it-might-as-well-be-spring.html)
+* [It’s You or No One](../its-you-or-no-one.html)
 * Joy Spring
 * [Just Friends](../just-friends.html)
 * Killer Joe
 * [Lady Bird](../lady-bird.html)
 * [Laura](../laura.html)
-* Lazy Bird
-* Like Someone in Love
+* [Lazy Bird](../lazy-bird.html)
+* [Like Someone in Love](../like-someone-in-love.html)
 * Little Sunflower
 * [Love for Sale](../love-for-sale.html)
 * [Lover Man](../lover-man.html)
@@ -124,7 +124,7 @@ Title: Full list
 * [Moonlight in Vermont](../moonlight-in-vermont.html)
 * [Mr. P.C.](../mr-pc.html)
 * [My Favorite Things](../my-favourite-things.html)
-* My Foolish Heart
+* [My Foolish Heart](../my-foolish-heart.html)
 * My Funny Valentine
 * [My Little Suede Shoes](../my-little-suede-shoes.html)
 * [My One and Only Love](../my-one-and-only-love.html)
@@ -140,7 +140,7 @@ Title: Full list
 * Oleo
 * [On Green Dolphin Street](../on-green-dolphin-street.html)
 * [On The Sunny Side Of The Street](../on-the-sunny-side-of-the-street.html)
-* Once I Loved
+* [Once I Loved](../once-i-loved.html)
 * One Note Samba
 * [Ornithology](../ornithology.html)
 * Our Love is Here to Stay
@@ -153,7 +153,7 @@ Title: Full list
 * [Round Midnight](../round-midnight.html)
 * Sandu
 * [Satin Doll](../satin-doll.html)
-* Scrapple from the Apple
+* [Scrapple from the Apple](../scrapple-from-the-apple.html)
 * Seven Steps to Heaven
 * Shadow of Your Smile
 * [Skylark](../skylark.html)
@@ -162,7 +162,7 @@ Title: Full list
 * [Solar](../solar.html)
 * [Some Day My Prince Will Come](../some-day-my-prince-will-come.html)
 * [Someone To Watch Over Me](../someone-to-watch-over-me.html)
-* Song for My Father
+* [Song for My Father](../song-for-my-father.html)
 * Song is You, The
 * Sophisticated Lady
 * Speak Low
@@ -172,7 +172,7 @@ Title: Full list
 * [Stablemates](../stablemates.html)
 * Star Eyes
 * [Stardust](../stardust.html)
-* Stella by Starlight
+* [Stella by Starlight](../stella-by-starlight.html)
 * Stolen Moments
 * Stompin' at the Savoy
 * [Straight No Chaser](../straight-no-chaser.html)

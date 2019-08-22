@@ -1,6 +1,7 @@
 Title: Afternoon In Paris
 Date: 2019-07-30 09:00
 Category: Standards
+Brief: A cycle tune modulating though 3 keys in the A section
 Time: 4/4
 Length: 32
 Form: AABA
