@@ -69,11 +69,11 @@ Title: Full list
 * [Girl from Ipanema](../girl-from-ipanema-the.html)
 * [Good Bait](../good-bait.html)
 * [Groovin' High](../groovin-high.html)
-* Half Nelson
+* [Half Nelson](../half-nelson.html)
 * [Have You Met Miss Jones?](../have-you-met-miss-jones.html)
-* Here’s that Rainy Day
+* [Here’s that Rainy Day](../heres-that-rainy-day.html)
 * [Honeysuckle Rose](../honeysuckle-rose.html)
-* Hot House
+* [Hot House](../hot-house.html)
 * [How Deep is the Ocean?](../how-deep-is-the-ocean.html)
 * [How High the Moon](../how-high-the-moon.html)
 * [How Insensitive](../how-insensitive.html)
@@ -83,8 +83,8 @@ Title: Full list
 * [I Hear a Rhapsody](../i-hear-a-rhapsody.html)
 * [I Love You](../i-love-you.html)
 * [I Mean You](../i-mean-you.html)
-* I Remember You
-* I Should Care
+* [I Remember You](../i-remember-you.html)
+* [I Should Care](../i-should-care.html)
 * I Thought About You
 * [I Wish I Knew How It Would Feel To Be Free](../i-wish-i-knew-how-it-would-feel-to-be-free.html)
 * [I'll Remember April](../ill-remember-april.html)
