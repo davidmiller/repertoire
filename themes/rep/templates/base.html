@@ -67,11 +67,13 @@
             {% endfor %}
             {% if DISPLAY_PAGES_ON_MENU %}
               {% for p in pages %}
+              {% if p.title != "Full list" %}
                 <li class="pv2 {% if p == page %} active{% endif %}">
                   <a href="{{ SITEURL }}/{{ p.url }}" class="white">
                     {{ p.title }}
                   </a>
                 </li>
+              {% endif %}
               {% endfor %}
             {% endif %}
             {% if DISPLAY_CATEGORIES_ON_MENU %}

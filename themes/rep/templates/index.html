@@ -9,9 +9,9 @@
 {% endblock %}
 {% block content %}
 
-    <ol class="pa0 ma0">
+    <ol class="pa0 ma0-ns ml4">
       {% for article in articles_page.object_list %}
-      <li class="f5 f3-ns lh-copy measure georgia">
+      <li class="f3 f3-ns lh-copy measure georgia">
         <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
            title="Permalink to {{ article.title|striptags }}"
            class="dark-blue"
@@ -19,9 +19,9 @@
           {{ article.title }}
         </a>
         {% if article.brief %}
-        <p class="mv0">
-          {{ article.brief }}
-        </p>
+        <!-- <p class="mv0"> -->
+        <!--   {{ article.brief }} -->
+        <!-- </p> -->
         {% endif %}
       </li>
       {% endfor %}
