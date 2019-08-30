@@ -8,3 +8,4 @@ Form:
 Style: Blues
 Key: C
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/0YzfTE5ZOhRnhOWLPSVYxs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Chords: images/blues-by-five.jpg

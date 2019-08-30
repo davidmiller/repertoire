@@ -132,48 +132,48 @@ Title: Full list
 * [My Shining Hour](../my-shining-hour.html)
 * [Nardis](../nardis.html)
 * [Nearness of You, The](../the-nearness-of-you.html)
-* Nica’s Dream
-* Night Has a Thousand Eyes, The
+* [Nica’s Dream](../nicas-dream.html)
+* [Night Has a Thousand Eyes, The](../the-night-has-a-thousand-eyes.html)
 * [Night and Day](../night-and-day.html)
 * [Night in Tunisia, A](../night-in-tunisia-a.html)
 * [Now’s the Time](../nows-the-time.html)
-* Oleo
+* [Oleo](../oleo.html)
 * [On Green Dolphin Street](../on-green-dolphin-street.html)
 * [On The Sunny Side Of The Street](../on-the-sunny-side-of-the-street.html)
 * [Once I Loved](../once-i-loved.html)
-* One Note Samba
+* [One Note Samba](../one-note-samba.html)
 * [Ornithology](../ornithology.html)
-* Our Love is Here to Stay
+* [Our Love is Here to Stay](../our-love-is-here-to-stay.html)
 * [Out of Nowhere](../out-of-nowhere.html)
 * [Peace](../peace.html)
 * [Perdido](../perdido.html)
-* Polka Dots and Moonbeams
+* [Polka Dots and Moonbeams](../polka-dots-and-moonbeams.html)
 * [Prelude to a Kiss](../prelude-to-a-kiss.html)
 * [Recorda Me](../recordame.html)
 * [Round Midnight](../round-midnight.html)
-* Sandu
+* [Sandu](../sandu.html)
 * [Satin Doll](../satin-doll.html)
 * [Scrapple from the Apple](../scrapple-from-the-apple.html)
-* Seven Steps to Heaven
-* Shadow of Your Smile
+* [Seven Steps to Heaven](./seven-steps-to-heaven.html)
+* [Shadow of Your Smile](../shadow-of-your-smile.html)
 * [Skylark](../skylark.html)
-* So What
+* [So What](../so-what.html)
 * [Softly as in a Morning Sunrise](../softly-as-in-a-morning-sunrise.html)
 * [Solar](../solar.html)
 * [Some Day My Prince Will Come](../some-day-my-prince-will-come.html)
 * [Someone To Watch Over Me](../someone-to-watch-over-me.html)
 * [Song for My Father](../song-for-my-father.html)
-* Song is You, The
-* Sophisticated Lady
+* [Song is You, The](../the-song-is-you.html)
+* [Sophisticated Lady](../sophisticated-lady.html)
 * Speak Low
 * Speak No Evil
 * [St. James Infirmary](../st-james-infirmary.html)
 * [St. Thomas](../st-thomas.html)
 * [Stablemates](../stablemates.html)
-* Star Eyes
+* [Star Eyes](../star-eyes.html)
 * [Stardust](../stardust.html)
 * [Stella by Starlight](../stella-by-starlight.html)
-* Stolen Moments
+* [Stolen Moments](../stolen-moments.html)
 * [Stompin' at the Savoy](../stompin-at-the-savoy.html)
 * [Straight No Chaser](../straight-no-chaser.html)
 * [Summertime](../summertime.html)

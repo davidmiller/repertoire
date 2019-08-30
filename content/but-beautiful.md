@@ -8,3 +8,4 @@ Form: ABAC
 Style: Ballad
 Key: G
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/4wYRSlGVjG49unNcGu0q3h" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Chords: images/but-beautiful.jpg

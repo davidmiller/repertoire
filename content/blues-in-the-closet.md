@@ -8,3 +8,4 @@ Form:
 Style: Blues
 Key: G
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/5xsu4e3q2ZgLDY2q4GvcFz" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Chords: images/blues-in-the-closet.jpg

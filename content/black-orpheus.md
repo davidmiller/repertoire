@@ -8,3 +8,4 @@ Form: AB
 Style: Bossa
 Key: A-
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/36N0sxVXgzLZFCR5ByejiV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Chords: images/black-orpheus.jpg
