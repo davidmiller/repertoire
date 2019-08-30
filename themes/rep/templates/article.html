@@ -32,7 +32,7 @@
 <h5 class="f6 ttu tracked near-black mv1">
   <span class="w4 dib">Composed by</span>
   {% for composer in article.composer %}
-  <a href="{{ SITEURL }}{{ composer.url }}" class="dark-blue">
+  <a href="{{ SITEURL }}/{{ composer.url }}" class="dark-blue">
     {{ composer }}{% if not loop.last %},{% endif %}
   </a>
   {% endfor %}
@@ -49,7 +49,7 @@
 {% if article.time %}
 <h5 class="f6 ttu tracked near-black mv1">
   <span class="w4 dib">Time</span>
-  <a href="{{ SITEURL }}{{ article.time.url }}" class="dark-blue">
+  <a href="{{ SITEURL }}/{{ article.time.url }}" class="dark-blue">
     {{ article.time }}
   </a>
   {% endif %}
@@ -57,7 +57,7 @@
   {% if article.form %}
   <h5 class="f6 ttu tracked near-black mv1">
   <span class="w4 dib">Form</span>
-    <a href="{{ SITEURL }}{{ article.form.url }}" class="dark-blue">
+    <a href="{{ SITEURL }}/{{ article.form.url }}" class="dark-blue">
       {{ article.form }}
     </a>
   </h5>
@@ -66,7 +66,7 @@
   {% if article.style %}
   <h5 class="f6 ttu tracked near-black mv1">
   <span class="w4 dib">Style</span>
-    <a href="{{ SITEURL }}{{ article.style.url }}" class="dark-blue">
+    <a href="{{ SITEURL }}/{{ article.style.url }}" class="dark-blue">
       {{ article.style }}
     </a>
   </h5>
@@ -76,7 +76,7 @@
   <h5 class="f6 ttu tracked near-black mv1">
   <span class="w4 dib">Common Key</span>
     {% for key in article.key %}
-    <a href="{{ SITEURL }}{{ key.url }}" class="dark-blue">
+    <a href="{{ SITEURL }}/{{ key.url }}" class="dark-blue">
       {{ key }}{% if not loop.last %},{% endif %}
     </a>
     {% endfor %}
