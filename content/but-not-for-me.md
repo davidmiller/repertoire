@@ -8,3 +8,4 @@ Form: ABAC
 Style: Swing
 Key: Eb
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/1dmulADiNwTaWHNsiq1WWT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Chords: images/but-not-for-me.jpg

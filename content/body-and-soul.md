@@ -8,3 +8,4 @@ Form: AABA
 Style: Ballad
 Key: C#
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/0Rutd204uQBL0xquFrLyOW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Chords: images/body-and-soul.jpg

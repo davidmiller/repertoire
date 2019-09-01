@@ -8,3 +8,4 @@ Form: AB
 Style: Swing
 Key: F
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/1IPW8zuGBtoqtARpEQy2J7" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Chords: images/come-rain-or-come-shine.jpg

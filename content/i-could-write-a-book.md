@@ -8,3 +8,4 @@ Form: ABAC
 Style: Swing
 Key: C
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/2Vy7jeRngaShPBZKpFmuWD" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Chords: images/i-could-write-a-book.jpg
