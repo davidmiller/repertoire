@@ -32,6 +32,16 @@
     {% endblock head %}
     <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-434560-12"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-434560-12');
+    </script>
+
   </head>
 
   <body class="">
@@ -56,33 +66,33 @@
 
     <footer class="bg-black sans-serif ttu">
       <div class="mw9 center pa4 pt5-ns ph7-l">
-          <ul class="list pl0 ">
-            <li class="pv2">
-              <a href="{{ SITEURL }}/" class="white">
-                Home
-              </a>
-            </li>
-            {% for title, link in MENUITEMS %}
-              <li><a href="{{ link }}">{{ title }}</a></li>
-            {% endfor %}
-            {% if DISPLAY_PAGES_ON_MENU %}
-              {% for p in pages %}
-              {% if p.title != "Full list" %}
-                <li class="pv2 {% if p == page %} active{% endif %}">
-                  <a href="{{ SITEURL }}/{{ p.url }}" class="white">
-                    {{ p.title }}
-                  </a>
-                </li>
-              {% endif %}
-              {% endfor %}
-            {% endif %}
-            {% if DISPLAY_CATEGORIES_ON_MENU %}
-            {% for cat, null in categories %}
-            <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-            {% endfor %}
-            {% endif %}
-        </ul></nav><!-- /#menu -->
-      </div>
-    </footer>
-  </body>
+        <ul class="list pl0 ">
+          <li class="pv2">
+            <a href="{{ SITEURL }}/" class="white">
+              Home
+            </a>
+          </li>
+          {% for title, link in MENUITEMS %}
+          <li><a href="{{ link }}">{{ title }}</a></li>
+          {% endfor %}
+          {% if DISPLAY_PAGES_ON_MENU %}
+          {% for p in pages %}
+          {% if p.title != "Full list" %}
+          <li class="pv2 {% if p == page %} active{% endif %}">
+            <a href="{{ SITEURL }}/{{ p.url }}" class="white">
+              {{ p.title }}
+            </a>
+          </li>
+          {% endif %}
+          {% endfor %}
+          {% endif %}
+          {% if DISPLAY_CATEGORIES_ON_MENU %}
+          {% for cat, null in categories %}
+          <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+          {% endfor %}
+          {% endif %}
+</ul></nav><!-- /#menu -->
+</div>
+</footer>
+</body>
 </html>
