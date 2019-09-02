@@ -9,3 +9,4 @@ Style: Blues
 Key: Bb
 Embed: <iframe src="https://open.spotify.com/embed/playlist/43HluyjXK4J7V3ppD3saL6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/freddie-freeloader.jpg
+Year: 1959

@@ -8,3 +8,5 @@ Form: ABC
 Style: Jazz Waltz
 Key: E-
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/13Mg2dbdMCHjZS3tRWIO2g" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Chords: images/my-favourite-things.jpg
+Year: 1959

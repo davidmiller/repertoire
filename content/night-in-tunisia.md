@@ -8,3 +8,5 @@ Form: AABA
 Style: Bebop
 Key: D-
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/1q0TjUwj8hGbtM8aa3hJV1" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Chords: images/night-in-tunisia.jpg
+Year: 1941

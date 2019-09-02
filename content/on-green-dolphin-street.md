@@ -9,3 +9,4 @@ Style: Latin/Swing
 Key: Eb, C
 Embed: <iframe src="https://open.spotify.com/embed/playlist/6WHBy1s2wVgLdZP0tYmXwo" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/on-green-dolphin-street.jpg
+Year: 1947

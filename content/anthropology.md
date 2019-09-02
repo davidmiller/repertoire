@@ -9,3 +9,4 @@ Style: Bebop
 Key: Bb
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/4rJOKz93Wc6nc0EnibyyBg" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/anthropology.jpg
+Year: 1946

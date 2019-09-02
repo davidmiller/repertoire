@@ -9,3 +9,4 @@ Style: Swing
 Key: G
 Embed: <iframe src="https://open.spotify.com/embed/playlist/1EmWieNzQzn5Bknqb6YbDN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/lazy-bird.jpg
+Year: 1957

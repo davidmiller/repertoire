@@ -9,3 +9,4 @@ Form:
 Style: Swing
 Key: D-
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/08qYdf8SjO08vWUJ5DaTgH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Chords: images/yesterdays.jpg

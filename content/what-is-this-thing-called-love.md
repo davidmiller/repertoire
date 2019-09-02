@@ -8,3 +8,4 @@ Composer: Cole Porter
 Style: Swing
 Key: C
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/1ZcetMC224N0UcbzaTxIsC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Chords: images/what-is-this-thing-called-love.jpg

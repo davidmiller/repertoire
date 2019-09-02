@@ -9,3 +9,4 @@ Style: Swing
 Key: D-
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/5PxiDhxhjoHlkx2mSVfMAh" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/bernies-tune.jpg
+Year: 1952

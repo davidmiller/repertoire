@@ -8,3 +8,5 @@ Composer: Johnny Green
 Style: Swing
 Key: G
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/3XmF6J5FEFNJUMJkWrzFIY" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Chords: images/out-of-nowhere.jpg
+Year: 1931

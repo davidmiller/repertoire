@@ -10,3 +10,4 @@ Style: Ballad
 Key: F
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/248yJfGXh8ojTi0xwqf8cH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/lover-man.jpg
+Year: 1942

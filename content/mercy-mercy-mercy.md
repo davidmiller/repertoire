@@ -9,3 +9,4 @@ Style: Funk
 Key: Bb
 Embed: <iframe src="https://open.spotify.com/embed/playlist/3AULhxd9Pg60z998eodzT7" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/mercy-mercy-mercy.jpg
+Year: 1966

@@ -10,3 +10,4 @@ Style: Swing
 Key: G
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/1spgy7uFbIW0RehSWwTmd0" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/moonglow.jpg
+Year: 1933

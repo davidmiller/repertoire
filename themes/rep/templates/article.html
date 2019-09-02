@@ -39,6 +39,15 @@
 </h5>
 {% endif %}
 
+{% if article.year %}
+<h5 class="f6 ttu tracked near-black mv1">
+  <span class="w4 dib">Year</span>
+  <a href="{{ SITEURL }}/{{ article.year.url }}" class="dark-blue">
+    {{ article.year }}
+  </a>
+</h5>
+{% endif %}
+
 {% if article.length %}
 <h5 class="f6 ttu tracked near-black mv1">
   <span class="w4 dib">Length</span>

@@ -9,3 +9,4 @@ Style: Bossa
 Key: D-
 Embed: <iframe src="https://open.spotify.com/embed/playlist/2otA6uoI5HDUZ7rgwbnSIq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/once-i-loved.jpg
+Year: 1960

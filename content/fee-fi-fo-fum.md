@@ -9,3 +9,4 @@ Style: Swing
 Key: Bb
 Embed: <iframe src="https://open.spotify.com/embed/playlist/60pya3wLDfgcOS7fJ9gns0" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/fee-fi-fo-fum.jpg
+Year: 1966

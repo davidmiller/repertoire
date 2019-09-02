@@ -10,3 +10,4 @@ Style: Latin/Swing
 Key: G
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/2pi5U2AyYnlzA06KvaOdzd" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/caravan.jpg
+Year: 1936

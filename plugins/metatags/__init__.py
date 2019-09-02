@@ -20,6 +20,17 @@ def _new_tag(tag_text, article, global_tags):
 
     return tag
 
+def _get_tags_by_year(generator):
+    """
+    Return a list of tuples of [('year', [<article>...])...]
+    """
+    years = defaultdict(list)
+    for article in generator.articles:
+        if getattr(article, 'year', None):
+            years[str(article.year)].append(article)
+    return [(y, years[y]) for y in sorted(years.keys())]
+
+
 def add_tags(content):
     """
     Create tags for our content.
@@ -37,7 +48,7 @@ def add_tags(content):
 
     for article in content.articles:
 
-        for metatag in ['form', 'time', 'composer', 'style', 'key']:
+        for metatag in ['form', 'time', 'composer', 'style', 'key', 'year']:
 
             if not getattr(content, metatag, False):
                 setattr(content, metatag, set())
@@ -58,6 +69,10 @@ def add_tags(content):
 
 
     content.tags = global_tags
+
+    content.context['tags_by_year'] = _get_tags_by_year(content)
+    print(content.context['tags_by_year'])
+
 
 def register():
     signals.article_generator_finalized.connect(add_tags)

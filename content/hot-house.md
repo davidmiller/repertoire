@@ -9,3 +9,4 @@ Style: Bebop
 Key: C
 Embed: <iframe src="https://open.spotify.com/embed/playlist/566bAmlSnWrIfcDSnLLmef" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/hot-house.jpg
+Year: 1945

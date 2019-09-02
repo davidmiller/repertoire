@@ -9,3 +9,4 @@ Style: Bebop
 Key: Eb
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/4wyRPsKfxp01jEXv4Qn9jj" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/groovin-high.jpg
+Year: 1944

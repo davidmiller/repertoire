@@ -9,3 +9,4 @@ Style: Funk
 Key: Bb
 Embed:
 Chords: images/freedom-jazz-dance.jpg
+Year: 1965

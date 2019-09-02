@@ -18,3 +18,7 @@ You can also make your own using the excellent [Musescore](https://musescore.com
 plug gaps in the real books if you're struggling to find something.)
 
 The chord charts on this site are exported from [IrealPro](https://irealpro.com/).
+
+This site is made by [David Miller](https://twitter.com/thatdavidmiller).
+
+Get in touch with thoughts, ideas, corrections etc by emailing david @ dedpansincerity.com

@@ -10,3 +10,4 @@ Style: Swing
 Key: G
 Embed: <iframe src="https://open.spotify.com/embed/playlist/5G1p5mpj05raMlqNwlktkt" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/inner-urge.jpg
+Year: 1964

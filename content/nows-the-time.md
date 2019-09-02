@@ -10,3 +10,4 @@ Style: Blues
 Key: F
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/2sVqRK3Ulj0htDYia96I0k" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/nows-the-time.jpg
+Year: 1945
