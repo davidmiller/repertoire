@@ -10,3 +10,4 @@ Style: Bossa
 Key: A-
 Embed: <iframe src="https://open.spotify.com/embed/playlist/76smsdYc7b1thYEUOocN7y" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/recordame.jpg
+Year: 1963

@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block page_title %}Timeline{% endblock %}
+{% block extra_header %}
+      <h4 class="f3 fw1 georgia i">
+        {% block content_subtitle %}Timeline of standards{% endblock %}
+      </h4>
+    {% import 'translations.html' as translations with context %}
+{% endblock %}
+{% block content %}
+
+{% for year, standards in tags_by_year %}
+
+    <h2 class="f2 bg-black-90 white sans-serif fw1 ">{{ year }}</h2>
+    <ol class="pa0 ma0-ns ml4">
+      {% for standard in standards %}
+      <li class="f3 f3-ns lh-copy measure georgia">
+        <a href="{{ SITEURL }}/{{ standard.url }}" class="dark-blule">
+          {{ standard.title }}
+        </a>
+      </li>
+      {% endfor %}
+    </ol>
+    {% endfor %}
+
+{% endblock content %}

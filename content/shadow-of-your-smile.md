@@ -9,3 +9,4 @@ Style: Swing
 Key: G
 Embed: <iframe src="https://open.spotify.com/embed/playlist/2Ar2TUWfEG08ikQ8aajKK2" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/the-shadow-of-your-smile.jpg
+Year: 1965

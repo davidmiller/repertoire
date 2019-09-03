@@ -9,3 +9,4 @@ Style: Bossa
 Key: F
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/48ka4Yvdq80jpwTeB2HF2B" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/girl-from-ipanema.jpg
+Year: 1962

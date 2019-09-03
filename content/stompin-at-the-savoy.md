@@ -9,3 +9,4 @@ Style: Swing
 Key: Db
 Embed: <iframe src="https://open.spotify.com/embed/playlist/49lkhXxmpdtCCIx1CLLdD2" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/stompin-at-the-savoy.jpg
+Year: 1936

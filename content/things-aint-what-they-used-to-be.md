@@ -9,3 +9,4 @@ Style: Blues
 Key:
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/6am9nSkve9IgZ1jpCjMNkp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/things-aint-what-they-used-to-be.jpg
+Year: 1942

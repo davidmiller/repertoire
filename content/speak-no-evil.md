@@ -9,3 +9,4 @@ Style: Swing
 Key: C-
 Embed:
 Chords: images/speak-no-evil.jpg
+Year: 1966

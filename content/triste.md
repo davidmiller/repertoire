@@ -10,3 +10,4 @@ Style: Bossa
 Key: A
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/4kawlt4hiBmRX08fc3TdOI" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/triste.jpg
+Year: 1966

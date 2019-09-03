@@ -9,3 +9,4 @@ Style: Swing
 Key: F
 Embed: <iframe src="https://open.spotify.com/embed/playlist/2mLD2qZlG7ML9MqDv2l38e" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/seven-steps-to-heaven.jpg
+Year: 1963
