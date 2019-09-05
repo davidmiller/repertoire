@@ -36,6 +36,12 @@ DEFAULT_PAGINATION = False
 THEME = 'themes/rep'
 DISPLAY_CATEGORIES_ON_MENU = False
 
-PLUGIN_PATHS = ["plugins"]
+PLUGIN_PATHS = [
+    "plugins",
+    "/Users/david/src/proj/pelican-plugins"
+]
 
-PLUGINS = ["metatags"]
+PLUGINS = [
+    "metatags",
+    "jinja2content"
+]

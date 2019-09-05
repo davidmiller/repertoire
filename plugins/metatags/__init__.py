@@ -71,7 +71,6 @@ def add_tags(content):
     content.tags = global_tags
 
     content.context['tags_by_year'] = _get_tags_by_year(content)
-    print(content.context['tags_by_year'])
 
 
 def register():
