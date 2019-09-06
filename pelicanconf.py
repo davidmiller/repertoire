@@ -1,10 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import sys
 
 AUTHOR = 'DM'
 SITENAME = 'Standards'
-SITEURL = ''
+SITEURL = 'https://repertoire.deadpansincerity.com'
+
+if '8082' in sys.argv: # Hacky, but == devserver
+    SITEURL = 'http://localhost:8082'
 
 PATH = 'content'
 
