@@ -47,5 +47,10 @@ PLUGIN_PATHS = [
 
 PLUGINS = [
     "metatags",
-    "jinja2content"
+    "jinja2content",
+    "sitemap"
 ]
+
+SITEMAP = {
+    'format': 'xml',
+}
