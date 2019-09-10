@@ -3,15 +3,18 @@
 {% block page_title %}{{ page.title }}{% endblock %}
 {% block extra_header %}
       <h4 class="f3 fw1 georgia i">
-        {% block content_subtitle %}{% endblock %}
+        {% block content_subtitle %}
+        {% endblock %}
       </h4>
     {% import 'translations.html' as translations with context %}
 {% endblock %}
 {% block content %}
 <article class="f5 f4-ns lh-copy measure mb4">
-{% for year, standards in tags_by_year %}
-
-    <h2 class="f2 bg-black-90 white sans-serif fw1 ">{{ year }}</h2>
+  <p>
+    Standards with more than one composer are listed more than once.
+  </p>
+{% for composer, standards in songs_by_composer %}
+    <h2 class="f2 bg-black-90 white sans-serif fw1 ">{{ composer }}</h2>
     <ol class="pa0 ma0-ns ml4">
       {% for standard in standards %}
       <li class="f3 f3-ns lh-copy measure georgia">

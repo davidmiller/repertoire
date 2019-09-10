@@ -31,6 +31,18 @@ def _get_tags_by_year(generator):
     return [(y, years[y]) for y in sorted(years.keys())]
 
 
+def _get_songs_by_composer(generator):
+    """
+    Return a list of tuples of [('composer', [<article>...])]
+    """
+    composers = defaultdict(list)
+    for article in generator.articles:
+        if getattr(article, 'composer', None):
+            for composer in article.composer:
+                composers[str(composer)].append(article)
+    return [(c, composers[c]) for c in sorted(composers.keys())]
+
+
 def add_tags(content):
     """
     Create tags for our content.
@@ -71,6 +83,7 @@ def add_tags(content):
     content.tags = global_tags
 
     content.context['tags_by_year'] = _get_tags_by_year(content)
+    content.context['songs_by_composer'] = _get_songs_by_composer(content)
 
 
 def register():
