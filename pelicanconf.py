@@ -5,7 +5,7 @@ import sys
 
 AUTHOR = 'DM'
 SITENAME = 'Standards'
-SITEURL = 'https://repertoire.deadpansincerity.com'
+SITEURL = 'https://standardrepertoire.com'
 
 if '8082' in sys.argv: # Hacky, but == devserver
     SITEURL = 'http://localhost:8082'

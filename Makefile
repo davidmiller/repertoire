@@ -72,7 +72,7 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 github: publish
-	ghp-import -m "Generate Pelican site" -c repertoire.deadpansincerity.com -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
+	ghp-import -m "Generate Pelican site" -c standardrepertoire.com -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push -f origin $(GITHUB_PAGES_BRANCH)
 
 
