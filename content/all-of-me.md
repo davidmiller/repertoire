@@ -5,6 +5,7 @@ Time: 4/4
 Length: 32
 Form: ABAC
 Composer: Gerald Marks
+Brief: Flexible early 30s songbook tune
 Style: Swing
 Key: C
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/4G77zXHnSb8CSbNTo54AEs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

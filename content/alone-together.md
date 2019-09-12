@@ -2,6 +2,7 @@ Title: Alone Together
 Date: 2019-07-30 09:00
 Category: Standards
 Time: 4/4
+Brief: Minor key tune with an unusual form, originating on Broadway
 Length: 44
 Form: AABA
 Composer: Arthur Schwartz

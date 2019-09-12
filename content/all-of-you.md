@@ -7,6 +7,7 @@ Form: ABAC
 Composer: Cole Porter
 Style: Swing
 Key: Eb
+Brief: The big hit from Cole Porter's last Broadway musical
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/0HS5QBKlJr8JbbcJMTeRkp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/all-of-you.jpg
 Year: 1954
