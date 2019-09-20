@@ -11,3 +11,12 @@ Key: F
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/2TnIB8ALbdgSkcldSUqG7a" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/watermelon-man.jpg
 Year: 1962
+
+{% from 'lyrics.html' import lyrics %}
+{{ lyrics("Hey, wa-ter-melon man. Watermelon man!
+Hey, wa-ter-melon man. Watermelon man!
+
+Bring me one that rattles when you lug it
+One that's red and juicy when you plug it
+Do you understand, wa-ter-melon man?
+Yeah!") }}

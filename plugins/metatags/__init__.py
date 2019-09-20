@@ -42,6 +42,12 @@ def _get_songs_by_composer(generator):
                 composers[str(composer)].append(article)
     return [(c, composers[c]) for c in sorted(composers.keys())]
 
+def _get_songs_with_lyrics(content):
+    """
+    Return a list of articles with lyrics
+    """
+    lyricstring = '<h2 class="f2 bg-black-90 white sans-serif fw1">\n    Lyrics\n  </h2>'
+    return [a for a in content.articles if lyricstring in a.content]
 
 def add_tags(content):
     """
@@ -84,6 +90,7 @@ def add_tags(content):
 
     content.context['tags_by_year'] = _get_tags_by_year(content)
     content.context['songs_by_composer'] = _get_songs_by_composer(content)
+    content.context['songs_with_lyrics'] = _get_songs_with_lyrics(content)
 
 
 def register():

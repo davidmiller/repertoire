@@ -10,3 +10,16 @@ Key:
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/6am9nSkve9IgZ1jpCjMNkp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/things-aint-what-they-used-to-be.jpg
 Year: 1942
+
+{% from 'lyrics.html' import lyrics %}
+{{ lyrics("Got so weary of bein' nothin'
+Felt so dreary just doin' nothin'
+Didn't care ever gettin' nothin', felt so low
+Now my eyes on the far horizon can see a glow
+Announcin' things ain't what they used to be
+
+No use bein' a doubtin' Thomas
+No ignorin' that rosy promise
+Now I know there's a happy story yet to come
+It's the dawn of a day of glory: millennium
+I tell you things ain't what they used to be") }}
