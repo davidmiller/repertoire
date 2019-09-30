@@ -4,6 +4,7 @@ Category: Standards
 Composer: Wayne Shorter
 Time: 3/4
 Length: 24
+Brief: Modal minor feel waltz rooted in the blues with a riff bassline
 Form:
 Style: Jazz Waltz
 Key: C-

@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Composer: Luiz Bonfia
 Time: 4/4
+Brief: An early bossa tune written for Orfeu Negro film score
 Length: 32
 Form: AB
 Style: Bossa

@@ -1,7 +1,7 @@
 Title: Take The A Train
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Swing era classic used as the theme for the Ellington Orchestra
 Composer: Billy Strayhorn
 Time: 4/4
 Length: 32

@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Composer: John Coltrane
 Time: 4/4
+Brief: Coltrane modal tune built on the harmony for So What
 Length: 32
 Form: AABA
 Style: Swing

@@ -2,6 +2,7 @@ Title: Blue Bossa
 Date: 2019-07-30 09:00
 Category: Standards
 Composer: Kenny Dorham
+Brief: Very commonly played bossa with a key change in the bridge
 Time: 4/4
 Length: 16
 Form:

@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Composer: Miles Davis
 Time: 4/4
+Brief: Relaxed Bb blues from the classic Miles album Kind Of Blue
 Length: 12
 Form:
 Style: Blues

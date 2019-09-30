@@ -1,7 +1,7 @@
 Title: Take Five
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Instantly recognisable tune - one of very few Jazz songs in 5/4
 Composer: Paul Desmond
 Time: 5/5
 Length: 24

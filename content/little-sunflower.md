@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Composer: Freddie Hubbard
 Time: 4/4
+Brief: Relaxed modal tune by trombonist Freddie Hubbard
 Length: 32
 Form: AABA
 Style: Latin
