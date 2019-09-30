@@ -5,7 +5,7 @@ Composer: Duke Ellington
 Brief:
 Time: 4/4
 Length: 32
-Form: ABAA
+Form: AABA
 Style: Ballad
 Key: D-
 Embed: <iframe src="https://open.spotify.com/embed/playlist/4pYmBo1z6m0y1NtBGwlNJo" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
