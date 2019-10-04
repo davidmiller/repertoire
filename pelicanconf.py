@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 import sys
 
 AUTHOR = 'DM'
-SITENAME = 'Standards'
+SITENAME = 'Jazz Standard Repertoire'
 SITEURL = 'https://standardrepertoire.com'
 
 if '8082' in sys.argv: # Hacky, but == devserver
