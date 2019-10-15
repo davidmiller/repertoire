@@ -1,7 +1,7 @@
 Title: Wave
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Striking bossa with a blues-with-a-bridge form
 Composer: Antonio Carlos Jobim
 Time: 4/4
 Length: 44

@@ -1,7 +1,7 @@
 Title: Willow Weep For Me
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Subtle downtempo song full of pastoral imagery lost love
 Composer: Ann Ronnell
 Time: 4/4
 Length: 32
@@ -30,7 +30,7 @@ Leave my heart a-breaking, and making a moan
 Murmur to the night to hide her starry light
 So none will find me sighing, crying all alone
 
-Oh, willow weep tree
+Weeping willow tree
 Weeping sympathy
 Bend your branches down along the ground and cover me
 When the shadows fall, bend over willow and weep for me") }}

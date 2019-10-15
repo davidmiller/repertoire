@@ -1,8 +1,8 @@
 Title: Well You Needen't
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
-Composer: Thelonius Monk
+Brief: Catchy, rhythmically bold Thelonious Monk tune
+Composer: Thelonious Monk
 Time: 4/4
 Length: 32
 Form: AABA

@@ -1,7 +1,7 @@
 Title: Caravan
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Fast mixed feel latin and swing tune featured in the film Whiplash
 Composer: Duke Ellington
 Time: 4/4
 Length: 64

@@ -5,6 +5,7 @@ Composer: Bill Evans
 Time: 4/4
 Length: 10
 Form:
+Brief: 10 bar ballad from Kind of Blue by Bill Evans
 Style: Ballad
 Key: D-
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/2MXic2fHfRFq2K08ryAhgi" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

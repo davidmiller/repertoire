@@ -1,7 +1,7 @@
 Title: Blue Monk
 Date: 2019-07-30 09:00
 Category: Standards
-Composer: Thelonius Monk
+Composer: Thelonious Monk
 Brief: Simple Bb blues by Monk
 Time: 4/4
 Length: 12

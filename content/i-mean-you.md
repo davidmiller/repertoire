@@ -2,7 +2,7 @@ Title: I Mean You
 Date: 2019-07-30 09:00
 Category: Standards
 Brief:
-Composer: Thelonius Monk
+Composer: Thelonious Monk
 Time: 4/4
 Length: 32
 Form: AABA

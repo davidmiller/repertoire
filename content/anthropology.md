@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Composer: Charlie Parker
 Time: 4/4
+Brief: Common rhythm changes bebop head also titled Thriving From A Riff
 Length: 32
 Form: AABA
 Style: Bebop

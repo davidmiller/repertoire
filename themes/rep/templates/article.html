@@ -11,7 +11,7 @@
 {{ translations.entry_hreflang(article) }}
 {% endif %}
 
-<meta name="description" content="Chords and playlist for the Jazz Standard {{ article.title }} by {% for composer in article.composer %}{{ composer }}{% if not loop.last %},{% endif %}{% endfor %}" />
+<meta name="description" content="{% if article.brief %}{{ article.brief }}; {% endif %} Chords and playlist for the Jazz Standard {{ article.title }} by {% for composer in article.composer %}{{ composer }}{% if not loop.last %},{% endif %}{% endfor %}" />
 
 {% for tag in article.tags %}
 <meta name="tags" content="{{tag}}" />
