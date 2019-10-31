@@ -1,7 +1,7 @@
 Title: Bye Bye Blackbird
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: 1920s popular song that became a common jam session tune in the 1950s
 Composer: Ray Henderson
 Time: 4/4
 Length: 32

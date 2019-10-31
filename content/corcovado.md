@@ -2,6 +2,7 @@ Title: Corcovado
 Date: 2019-07-30 09:00
 Category: Standards
 Composer: Antonio Carlos Jobim
+Brief: Common jam session bossa with an unusual ending to the form
 Time: 4/4
 Length: 34
 Form: ABAC
