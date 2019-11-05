@@ -1,7 +1,7 @@
 Title: Love For Sale
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Cole Porter Broadway showtune often played with a latin / swing switch
 Composer: Cole Porter
 Time: 4/4
 Length: 64

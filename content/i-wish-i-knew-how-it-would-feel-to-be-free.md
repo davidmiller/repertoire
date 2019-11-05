@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Composer: Billy Taylor
 Time: 4/4
+Brief: Gospel tune and civil rights anthem made famous by Nina Simone
 Length: 16
 Form:
 Style: Even 8ths

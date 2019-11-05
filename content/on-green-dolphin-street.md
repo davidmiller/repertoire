@@ -4,6 +4,7 @@ Category: Standards
 Time: 4/4
 Length: 32
 Form: ABAC
+Brief: Common jam session tune featuring a bass pedal in the A sections
 Composer: Bronislau Kaper
 Style: Latin/Swing
 Key: Eb, C

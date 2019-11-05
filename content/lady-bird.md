@@ -2,6 +2,7 @@ Title: Lady Bird
 Date: 2019-07-30 09:00
 Category: Standards
 Composer: Tadd Dameron
+Brief: Common bebop tune that origniated the Tadd Dameron Turnaround
 Time: 4/4
 Length: 16
 Form:

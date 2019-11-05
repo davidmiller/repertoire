@@ -20,6 +20,11 @@ The chord progression for a song.
 
 When improvising, one run through the structure of a song.
 
+{{ h2("Contrafact") }}
+
+A new melody played over existing chord changes from an previous song. For instance
+Anthropology and I Got Rhythm.
+
 {{ h2("Form") }}
 
 The structure of the song - frequently described with letters e.g. AABA, but also
