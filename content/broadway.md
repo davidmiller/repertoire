@@ -5,8 +5,9 @@ Composer: Wilbur H Bird, Teddy McRae, Henri Woode
 Time: 4/4
 Length: 32
 Form: AABA
-Style: Ballad
+Style: Swing
 Key: C
+Brief: Up tempo swing tune often played by the Count Basie Orchestra
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/0qeILTxEetPCX2VkISktiM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/broadway.jpg
 Year: 1940

@@ -4,6 +4,7 @@ Category: Standards
 Time: 4/4
 Length: 16
 Form:
+Brief: Popular latin tune with a punchy distinctive riff melody
 Composer: Sonny Rollins
 Style: Latin
 Key: C
