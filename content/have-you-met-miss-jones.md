@@ -4,6 +4,7 @@ Category: Standards
 Composer: Richard Rogers
 Time: 4/4
 Length: 32
+Brief: Common swinging standard with unusual harmonic movement in the bridge
 Form: AABA
 Style: Swing
 Key: F

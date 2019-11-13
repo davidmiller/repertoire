@@ -4,6 +4,7 @@ Category: Standards
 Composer: Antonio Carlos Jobim
 Time: 4/4
 Length: 32
+Brief: Melancholy Jobim bossa loosely based on a Chopin piece
 Form: AB
 Style: Bossa
 Key: D-
