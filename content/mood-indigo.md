@@ -4,6 +4,7 @@ Category: Standards
 Composer: Duke Ellington
 Time: 4/4
 Length: 32
+Brief: An early Ellington masterpiece, adapted from a traditional New Orleans tune
 Form: AB
 Style: Ballad
 Key: Ab

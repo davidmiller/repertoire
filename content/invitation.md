@@ -4,6 +4,7 @@ Category: Standards
 Composer: Bronislau Kaper
 Time: 4/4
 Length: 48
+Brief: Distinctive and unusual tune originally written as a film score
 Form: ABC
 Style: Swing
 Key: C-

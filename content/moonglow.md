@@ -1,7 +1,7 @@
 Title: Moonglow
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Popular tune with a simple melody, frequently recorded by swing era musicians
 Composer: Will Hudson, Irving Mills
 Time: 4/4
 Length: 32

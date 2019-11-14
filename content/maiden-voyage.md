@@ -1,7 +1,7 @@
 Title: Maiden Voyage
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Atmospheric modal tune comprised of sus chords
 Composer: Herbie Hancock
 Time: 4/4
 Length: 32

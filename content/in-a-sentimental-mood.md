@@ -2,7 +2,7 @@ Title: In A Sentimental Mood
 Date: 2019-07-30 09:00
 Category: Standards
 Composer: Duke Ellington
-Brief:
+Brief: Popular ballad built from an ascending pentatonic scale
 Time: 4/4
 Length: 32
 Form: AABA

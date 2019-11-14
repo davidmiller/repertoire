@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Time: 4/4
 Length: 32
+Brief: Modal tune that makes heavy use of the Phygrian Dominant scale
 Form: AABA
 Composer: Miles Davis
 Style: Swing
