@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Composer: Juan Tizol
 Time: 4/4
+Brief: Jam session favourite made up of very typical jazz harmony blocks
 Length: 32
 Form: AABA
 Style: Swing

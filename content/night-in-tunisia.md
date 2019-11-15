@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Composer: Dizzie Gillespie
 Time: 4/4
+Brief: Early bebop tune with a distinctive bass riff and a latin feel for the A sections
 Length: 32
 Form: AABA
 Style: Bebop
