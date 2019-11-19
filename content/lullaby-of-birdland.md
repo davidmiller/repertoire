@@ -4,6 +4,7 @@ Category: Standards
 Composer: George Shearing
 Time: 4/4
 Length: 32
+Brief: Popular with singers, originally a radio jingle for the jazz club Birdland
 Form: AABA
 Style: Swing
 Key: Bb

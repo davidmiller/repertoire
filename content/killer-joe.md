@@ -10,3 +10,4 @@ Key: C
 Embed: <iframe src="https://open.spotify.com/embed/playlist/0jVsSQHd3456THdMiZaMeP" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/killer-joe.jpg
 Year: 1959
+Brief: Simple, sparse tune with a riff bassline
