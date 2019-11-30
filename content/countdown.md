@@ -1,7 +1,7 @@
 Title: Countdown
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Reharmonisation of Tune Up to feature Coltrane Changes
 Composer: John Coltrane
 Time: 4/4
 Length: 16

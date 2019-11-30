@@ -1,7 +1,7 @@
 Title: In A Mellow Tone
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Simple, catchy riff-driven swing tune
 Composer: Duke Ellington
 Time: 4/4
 Length: 32

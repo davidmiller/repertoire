@@ -4,6 +4,7 @@ Category: Standards
 Composer: Morgan Lewis
 Time: 4/4
 Length: 32
+Brief: Popular jam session tune built around a descending 2-5-1 cycle
 Form: ABAC
 Style: Swing
 Key: G
