@@ -5,6 +5,7 @@ Composer: Antonio Carlos Jobim
 Time: 4/4
 Length: 68
 Form: AABC
+Brief: Translated as "Out of Tune" in english, this song was a 1962 chart hit for Stan Getz
 Style: Bossa
 Key: F
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/0PtohdBfZvznsaVMIq1iIG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

@@ -4,6 +4,7 @@ Category: Standards
 Composer: Wayne Shorter
 Time: 4/4
 Length: 32
+Brief: Up tempo tune written for the Miles Davis Quintet album of the same name with unusual harmony
 Form: ABAC
 Style: Swing
 Key: F

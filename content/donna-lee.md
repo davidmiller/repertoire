@@ -1,7 +1,7 @@
 Title: Donna Lee
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Up tempo bebop tune based on the harmony to Indianna, sometimes credited to Miles
 Composer: Charlie Parker
 Time: 4/4
 Length: 32
