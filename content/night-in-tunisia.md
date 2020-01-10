@@ -1,4 +1,4 @@
-Title: Night In Tunisia, A
+Title: Night In Tunisia
 Date: 2019-07-30 09:00
 Category: Standards
 Composer: Dizzie Gillespie
