@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Composer: John Coltrane
 Time: 4/4
+Brief: One of Coltrane's later blues compositions with more traditional changes
 Length: 12
 Form:
 Style: Blues
