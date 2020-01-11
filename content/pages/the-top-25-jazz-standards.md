@@ -4,9 +4,10 @@ Date: 2020-02-01
 {% from 'markup.html' import h2 %}
 
 
-Mastering jazz repertoire takes a lifetime of study, and
-can sometimes seem overwhelming. There are thousands of
-songs to choose from and it can seem like the repertoire
+Mastering the jazz repertoire is a journey that takes a
+lifetime of study, and at times on the way it seems
+overwhelming. There are thousands of
+songs to choose from and it can feel like the repertoire
 is endless when you’re at a jam session where every song
 that gets called is completely new to you.
 
@@ -57,22 +58,18 @@ remained similar.
 {{ h2("A relatively small number of songs comprise the majority of calls") }}
 
 If you only knew 10 songs, this would make up 20% of all
-calls at jam sessions. If you only knew 25 songs this
+calls at jam sessions. If you knew 25 songs this
 would get you to 40%.
 
 ![Chart of call count percentage]({static}/images/512-call-count-perc.png)
 
 Getting to the point where you knew every other song requires
-you to know 35 songs - which is in fact very manageable. One
-of the challenges that face musicians starting out in their
-journey to conquer the jazz repertoire is knowing which songs
-these are.
+you to know 35 songs - which is in fact very manageable.
 
-To help with that, I've incorporated a list of the "Top 10"
-and "Top 25" tunes into this site. These songs are
-broadly-speaking driven by this data, although I've
+These songs are broadly-speaking driven by this data, although I've
 editorialised slightly to make them fit such nice round
-numbers and make the lists more approachable.
+numbers and make the lists more approachable. (A link to the full data
+is below if you're curious to see the full list.)
 
 {{ h2("Top 10 standards (20% of all calls)") }}
 
@@ -140,7 +137,7 @@ pick something a bit more obscure !
 If you don’t already have a list of songs you like and want to learn,
 I’d suggest listening to the
 [master spotify playlist](https://open.spotify.com/playlist/2jCq77SrgiVScSECYfbeDQ?si=efxyUA0tQl6zISYoBWF9fA) of 200+ songs on shuffle and waiting till something
-really grabs your ear, then investigating that!
+really grabs your ear, then investigating that.
 
 
 {{ h2("Notes") }}
