@@ -2,6 +2,7 @@ Title: Giant Steps
 Date: 2019-07-30 09:00
 Category: Standards
 Time: 4/4
+Brief: Notoriously difficult song to improvise over with fast and unforgiving changes
 Length: 24
 Form:
 Composer: John Coltrane

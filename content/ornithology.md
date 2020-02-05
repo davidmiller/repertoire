@@ -4,6 +4,7 @@ Category: Standards
 Composer: Charlie Parker
 Time: 4/4
 Length: 32
+Brief: Charlie Parker's contrafact on the changes to How High The Moon
 Form: ABAC
 Style: Bebop
 Key: G

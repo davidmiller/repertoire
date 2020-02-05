@@ -1,7 +1,7 @@
 Title: Fly Me To The Moon
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Popular tune associated with Sinatra - sometimes called in different time signatures
 Composer: Bart Howard
 Time: 4/4
 Length: 32

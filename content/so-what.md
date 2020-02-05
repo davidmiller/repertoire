@@ -1,7 +1,7 @@
 Title: So What
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Relaxed modal song from Kind Of Blue with an iconic bassline
 Time: 4/4
 Length: 36
 Form: AABA

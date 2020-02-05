@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Composer: Wayne Shorter
 Time: 4/4
+Brief: Harmonically unusual song from the influential mid 60s album Speak No Evil
 Length: 24
 Form: ABA
 Style: Swing
