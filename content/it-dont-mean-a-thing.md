@@ -1,7 +1,7 @@
 Title: It Don't Mean A Thing
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: The song credited with introducing the term 'swing' to the general public
 Time: 4/4
 Length: 32
 Form: AABA

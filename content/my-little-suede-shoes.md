@@ -2,6 +2,7 @@ Title: My Little Suede Shoes
 Date: 2019-07-30 09:00
 Category: Standards
 Composer: Charlie Parker
+Brief: Catchy, riff based, unusually approachable Charlie Parker song
 Time: 4/4
 Length: 32
 Form: AABA

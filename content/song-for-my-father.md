@@ -1,7 +1,7 @@
 Title: Song For My Father
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Popular jam session tune with a minor feel
 Time: 4/4
 Length: 24
 Form: AAB

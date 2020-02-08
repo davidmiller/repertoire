@@ -7,7 +7,10 @@ AUTHOR = 'DM'
 SITENAME = 'Jazz Standard Repertoire'
 SITEURL = 'https://standardrepertoire.com'
 
+LOCAL = False
+
 if '8082' in sys.argv: # Hacky, but == devserver
+    LOCAL   = True
     SITEURL = 'http://localhost:8082'
 
 PATH = 'content'

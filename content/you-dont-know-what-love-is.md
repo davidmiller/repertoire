@@ -1,7 +1,7 @@
 Title: You Don't Know What Love Is
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: A popular ballad often heard with a strong bluesy feel to it's solos
 Composer: Gene De Paul, Don Raye
 Time: 4/4
 Length: 32

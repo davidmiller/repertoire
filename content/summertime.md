@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Time: 4/4
 Length: 16
+Brief: Perhaps the most iconic Gershwin composition suited to jazz improvisation
 Form:
 Composer: George Gershwin
 Style: Swing

@@ -2,6 +2,7 @@ Title: Beautiful Love
 Date: 2019-07-30 09:00
 Category: Standards
 Composer: Victor Young
+Brief: Popular, flexible minor oriented tune heard as both a ballad and medium up tempo
 Time: 4/4
 Length: 32
 Form: ABAC

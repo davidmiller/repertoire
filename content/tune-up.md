@@ -4,6 +4,7 @@ Category: Standards
 Time: 4/4
 Length: 32
 Form: AB
+Brief: Fast modern jazz song built around a cycle of ii-V-Is
 Composer: Miles Davis
 Style: Bebop
 Key: Bb

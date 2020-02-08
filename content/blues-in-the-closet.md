@@ -4,6 +4,7 @@ Category: Standards
 Composer: Oscar Pettiford
 Time: 4/4
 Length: 12
+Brief: Simple riff blues head - called by instrumentalists in many different keys
 Form:
 Style: Blues
 Key: G

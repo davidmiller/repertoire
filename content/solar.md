@@ -1,7 +1,7 @@
 Title: Solar
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: An altered blues form from the album Walkin'
 Time: 4/4
 Length: 12
 Form:

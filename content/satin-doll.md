@@ -1,7 +1,7 @@
 Title: Satin Doll
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Bouncy swing tune driven by it's catchy melody
 Time: 4/4
 Length: 32
 Form: AABA
