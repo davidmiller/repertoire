@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Composer: Miles Davis
 Time: 4/4
+Brief: A song Miles returned to throughout his career, at progressively faster tempos
 Length: 32
 Form: ABAC
 Style: Swing

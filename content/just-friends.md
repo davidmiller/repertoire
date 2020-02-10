@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Composer: John Klenner
 Time: 4/4
+Brief: Flexible song often played at a variety of tempos in various keys
 Length: 32
 Form: ABAC
 Style: Swing
