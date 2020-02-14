@@ -10,3 +10,4 @@ Key: Bb
 Embed: <iframe src="https://open.spotify.com/embed/playlist/3FcCxiYW2IjJqyDYHHkQCr" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/oleo.jpg
 Year: 1954
+Brief: Rhythm changes head first heard on the Miles Davis Album Bags' Groove

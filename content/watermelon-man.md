@@ -1,7 +1,7 @@
 Title: Watermelon Man
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Altered blues recorded by Herbie as a hard bop song, and later in a fusion style
 Composer: Herbie Hancock
 Time: 4/4
 Length: 16
