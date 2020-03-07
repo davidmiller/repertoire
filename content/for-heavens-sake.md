@@ -2,6 +2,7 @@ Title: For Heaven's Sake
 Date: 2019-07-30 09:00
 Category: Standards
 Composer: Sherman Edwards, Donald Meyer, Elise Bretton
+Brief: Lyrical ballad first recorded by Claude Thornhill with Anthropology as the B side
 Time: 4/4
 Length: 32
 Form: AABA
