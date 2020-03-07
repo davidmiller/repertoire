@@ -4,6 +4,7 @@ Category: Standards
 Composer: Johnny Green
 Time: 4/4
 Length: 32
+Brief: Lyrical ballad recorded many times, most notably by Coleman Hawkins
 Form: AABA
 Style: Ballad
 Key: C#

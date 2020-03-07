@@ -4,6 +4,7 @@ Category: Standards
 Composer: George Gershwin
 Time: 4/4
 Length: 32
+Brief: A staple of 50's modern jazz, originally written for the 1930 musical Girl Crazy
 Form: ABAC
 Style: Swing
 Key: Eb

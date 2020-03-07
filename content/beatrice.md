@@ -10,3 +10,4 @@ Key: F
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/21AheK6Vpuni72ufiF84CH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Chords: images/beatrice.jpg
 Year: 1964
+Brief: Lyrical ballad with an unusual modal harmonic framework

@@ -5,6 +5,7 @@ Composer: Harold Arlen
 Time: 4/4
 Length: 32
 Form: AB
+Brief: Flexible song played at many tempos featuring long strings of repeated notes
 Style: Swing
 Key: F
 Embed: <iframe src="https://open.spotify.com/embed/user/thatdavidmiller/playlist/1IPW8zuGBtoqtARpEQy2J7" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
