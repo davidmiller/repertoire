@@ -1,7 +1,7 @@
 Title: What's New
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Originally a dixieland ballad that plays on it's harmonic major/minor ambiguity
 Composer:  Bob Haggart
 Time: 4/4
 Length: 32

@@ -4,6 +4,7 @@ Category: Standards
 Time: 4/4
 Length: 32
 Form: AABA
+Brief: Approachable Bird original mostly taken at a relaxed medium tempo
 Composer: Charlie Parker
 Style: Bebop
 Key: C

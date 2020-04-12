@@ -1,7 +1,7 @@
 Title: Yesterdays
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Compact, dense form under a simple but haunting melody
 Composer: Jerome Kern
 Time: 4/4
 Length: 16

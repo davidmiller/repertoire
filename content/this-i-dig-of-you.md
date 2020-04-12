@@ -1,7 +1,7 @@
 Title: This I Dig Of You
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Uptempo hard bop vehichle full of slash chords and a latin pedal/swing head
 Composer: Hank Mobley
 Time: 4/4
 Length: 32

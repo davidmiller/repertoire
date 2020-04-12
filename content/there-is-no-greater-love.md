@@ -4,6 +4,7 @@ Category: Standards
 Time: 4/4
 Length: 32
 Form: AABA
+Brief: Swing era tune established as a standard by hard bop players in the 50s
 Composer: Isham Jones
 Style: Swing
 Key: Bb

@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Time: 4/4
 Length: 32
+Brief: Popular jam tune with long sweeping melodic phrases
 Form: ABAC
 Composer: Harry Warren
 Style: Swing

@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Composer: Antonio Carlos Jobim
 Time: 4/4
+Brief: A smash hit in '64 with an extra 8 bars in the bridge
 Length: 40
 Form: AABA
 Style: Bossa

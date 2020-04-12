@@ -1,7 +1,7 @@
 Title: When I Fall In Love
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Romantic ballad orginially introduced in a 50s film
 Composer: Victor Young
 Time: 4/4
 Length: 32
