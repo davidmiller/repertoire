@@ -2,9 +2,9 @@ Title: Moonlight In Vermont
 Date: 2019-07-30 09:00
 Category: Standards
 Composer: Karl Suessdorf
-Brief:
+Brief: Lyrical but unusual ballad with a 24 bar form and short A sections
 Time: 4/4
-Length: 38
+Length: 26
 Form: AABA
 Style: Swing
 Key: Eb

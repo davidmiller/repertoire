@@ -2,6 +2,7 @@ Title: Hot House
 Date: 2019-07-30 09:00
 Category: Standards
 Composer: Tadd Dameron
+Brief: Bebop contrafact on What Is This Thing Called Love full of chromaticism
 Time: 4/4
 Length: 32
 Form: AABA
