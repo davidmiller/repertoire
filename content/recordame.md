@@ -1,7 +1,7 @@
 Title: Recordame
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Distinctive bossa that switches between minor vamps and a rapid ii-v-i cycle
 Time: 4/4
 Length: 16
 Form:

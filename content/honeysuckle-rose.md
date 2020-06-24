@@ -2,6 +2,7 @@ Title: Honeysuckle Rose
 Date: 2019-07-30 09:00
 Category: Standards
 Composer: Fats Waller
+Brief: Jam session staple since the 30s from Harlem Stride master Fats Waller
 Time: 4/4
 Length: 32
 Form: AABA

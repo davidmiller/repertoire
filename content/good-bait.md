@@ -1,7 +1,7 @@
 Title: Good Bait
 Date: 2019-07-30 09:00
 Category: Standards
-Brief:
+Brief: Bebop composition based on rhythm changes moving up a fourth in the bridge
 Composer: Tadd Dameron
 Time: 4/4
 Length: 32
