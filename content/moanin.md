@@ -3,6 +3,7 @@ Date: 2019-07-30 09:00
 Category: Standards
 Composer: Bobby Timmons
 Time: 4/4
+Brief: Hard bop classic from the Jazz Messengers album of the same name
 Length:
 Form: AABA
 Style: Swing

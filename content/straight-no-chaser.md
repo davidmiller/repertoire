@@ -4,6 +4,7 @@ Category: Standards
 Composer: Thelonious Monk
 Time: 4/4
 Length: 12
+Brief: Offbeat heavy blues often called at jam sessions
 Form:
 Style: Blues
 Key: F

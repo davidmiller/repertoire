@@ -4,6 +4,7 @@ Category: Standards
 Composer: Oliver Nelson
 Time: 4/4
 Length: 23
+Brief: Relaxed minor blues with an unusual alternate form in the head
 Form: AB
 Style: Blues
 Key: C-
