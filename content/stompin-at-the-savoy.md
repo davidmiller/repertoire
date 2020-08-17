@@ -4,6 +4,7 @@ Category: Standards
 Composer: Benny Goodman, Chick Webb, Edgar Sampson
 Time: 4/4
 Length: 32
+Brief: Swing era anthem written in homage to the Harlem ballroom
 Form: AABA
 Style: Swing
 Key: Db

@@ -2,6 +2,7 @@ Title: Misty
 Date: 2019-07-30 09:00
 Category: Standards
 Composer: Erroll Garner
+Brief: Jazz ballad turned into a crossover hit by the attentions of Johnny Mathis and Clint Eastwood
 Time: 4/4
 Length: 32
 Form: AABA
