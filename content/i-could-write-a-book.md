@@ -4,6 +4,7 @@ Category: Standards
 Composer: Richard Rogers
 Time: 4/4
 Length: 32
+Brief: Rogers & Hart showtune popularised as a jazz tune by Miles Davis
 Form: ABAC
 Style: Swing
 Key: C
