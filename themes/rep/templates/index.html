@@ -35,7 +35,7 @@
  </h2>
     <ol class="pa0 ma0-ns ml4">
       {% for article in articles_page.object_list %}
-
+      {% if not article.brief %}
       <li class="f3 f3-ns lh-copy measure georgia">
         <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
            title="Permalink to {{ article.title|striptags }}"
@@ -44,7 +44,7 @@
           {{ article.title }}
         </a>
       </li>
-
+      {% endif %}
       {% endfor %}
     </ol><!-- /#posts-list -->
 
