@@ -9,6 +9,9 @@ coming up with one that represented a consensus view.
 I then adjusted it to make sure it had some missing tunes that regularly get called
 at London jam sessions, and to make room for one or two personal favourites.
 
+Since then [I've been collecting data](/pages/the-top-25-jazz-standards.html) from jam sessions, gigs et cetera to validate
+the list.
+
 <h2 class="f2 bg-black-90 white sans-serif fw1 ">Other Resources</h2>
 
 Other great resources for researching the repertoire include:
@@ -38,7 +41,7 @@ Hosting is provided free by [Github Pages](https://pages.github.com).
 
 These four things are excellent.
 
-This site is made by [David Miller](https://twitter.com/thatdavidmiller).
+This site is made by [David Miller](https://www.facebook.com/ThatDavidMillerMusic).
 
 Source code is [available](https://github.com/davidmiller/repertoire).
 
