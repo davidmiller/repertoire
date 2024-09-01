@@ -41,8 +41,8 @@ Hosting is provided free by [Github Pages](https://pages.github.com).
 
 These four things are excellent.
 
-This site is made by [David Miller](https://www.facebook.com/ThatDavidMillerMusic).
+This site is made by [David Miller](https://www.instagram.com/thatdavidmillermusic).
 
 Source code is [available](https://github.com/davidmiller/repertoire).
 
-Get in touch with thoughts, ideas, corrections etc by emailing david @ dedpansincerity.com
+Get in touch with thoughts, ideas, corrections etc by emailing david @ deadpansincerity.com
