@@ -19,9 +19,9 @@ How white the ever constant moon
 Take care my foolish heart
 
 There's a line between love and fascination
-That's hard to see, how many names such as this
+That's hard to see, on an evening such as this
 For they both have the very same sensation
-When you're locked in the magic of a kiss
+When you're lost in the magic of a kiss
 
 Her lips are much too close to mine
 Beware my foolish heart
