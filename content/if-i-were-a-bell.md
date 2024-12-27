@@ -2,7 +2,7 @@ Title: If I Were A Bell
 Date: 2019-07-30 09:00
 Category: Standards
 Composer: Frank Loesser
-Brief:
+Brief: Broadway classic featured on Miles Davis' Relaxin' album
 Time: 4/4
 Length: 32
 Form: ABAC
